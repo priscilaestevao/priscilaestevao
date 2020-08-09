@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 😄
 
 Aprendendo a codar e achando mara!
 
