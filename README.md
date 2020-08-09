@@ -1,6 +1,6 @@
 ### Hello! 😄
 
-Aprendendo a codar e achando mara!
+Aprendendo a codar e curtindo pra caramba!
 
 <!--
 **priscilaestevao/priscilaestevao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
