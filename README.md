@@ -1,5 +1,5 @@
 ## Hi there! :grin: Bem vinde!
-Estudante de Desenvolvimento em Back-End da [{reprograma}](http://reprograma.com.br "{reprograma}") em parceria com o Programa M.I.N.As do Porto Digital.
+Back-End Developer Student [{reprograma}](http://reprograma.com.br "{reprograma}") in partnership with M.I.N.A.S. Program of [Porto Digital](https://www.portodigital.org/home).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
